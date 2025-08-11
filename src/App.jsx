@@ -1,5 +1,7 @@
+import Test2 from "./components/Test2";
+
 const App = () => {
-    return <div>test</div>;
+    return <div><Test2/></div>;
 };
 
 export default App;
